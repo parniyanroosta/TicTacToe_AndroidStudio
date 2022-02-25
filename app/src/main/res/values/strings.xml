@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TicTacToe_ParniyanRoosta</string>
+    <string name="player_leaf">Player Leaf</string>
+    <string name="_0">0</string>
+    <string name="reset_game">RESET GAME</string>
+    <string name="player_flower">Player Flower</string>
+    <string name="textview">TextView</string>
+    <string name="todo">TODO</string>
+</resources>
